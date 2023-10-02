@@ -1,0 +1,10 @@
+#beranda-main {
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.blok {
+    border: 1px solid black;
+}
