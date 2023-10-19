@@ -1,10 +1,4 @@
-#beranda-main {
-    height: 30vh;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-
-.blok {
-    border: 1px solid black;
+.card {
+    border-radius: 8px;
+    padding: 10px;
 }
